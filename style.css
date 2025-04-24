@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header img {
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
